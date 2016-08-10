@@ -1,3 +1,5 @@
+Forked to modify for use with Rails 5.0. This is not tested, yet. Do not use. 
+
 [![Gem Version](https://badge.fury.io/rb/invitational.png)](http://badge.fury.io/rb/invitational)
 [![Build Status](https://travis-ci.org/the-refinery/invitational.svg?branch=master)](https://travis-ci.org/the-refinery/invitational)
 
